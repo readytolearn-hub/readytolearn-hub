@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.OgsOTjDkEq2zB4yXuo1FfAHaFj&pid=Api&P=0&h=180https://tse2.mm.bing.net/th?id=OIP.OgsOTjDkEq2zB4yXuo1FfAHaFj&pid=Api&P=0&h=180https://tse2.mm.bing.net/th?id=OIP.OgsOTjDkEq2zB4yXuo1FfAHaFj&pid=Api&P=0&h=180">
+<img align="right" alt="coding" width="300" src="https://tse2.mm.bing.net/th?id=OIP.OgsOTjDkEq2zB4yXuo1FfAHaFj&pid=Api&P=0&h=180https://tse2.mm.bing.net/th?id=OIP.OgsOTjDkEq2zB4yXuo1FfAHaFj&pid=Api&P=0&h=180https://tse2.mm.bing.net/th?id=OIP.OgsOTjDkEq2zB4yXuo1FfAHaFj&pid=Api&P=0&h=180">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=readytolearn-hub&label=Profile%20views&color=0e75b6&style=flat" alt="readytolearn-hub" /> </p>
 
 - 🌱 I’m currently learning **Python and web development**
