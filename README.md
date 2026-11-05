@@ -28,9 +28,9 @@ I'm Nirjala, a B.Tech CSE (AI/ML) student in Pune. I like the moment an ML model
 $ cat about.txt
 name        : Nirjala Sharma
 from        : Pune, India
-studying    : B.Tech CSE (AI/ML) @ Pimpri Chinchwad University (2028)
+studying    : Pre-final year B.Tech CSE (AI/ML) @ Pimpri Chinchwad University (2028)
 likes       : ML systems, digital forensics, debate, anchoring
-vibe        : TODO (one honest line about how you work with people)
+vibe        : Calm under pressure. Deeply analytical, highly collaborative, relentlessly execution-focused.
 ```
 
 ## 🎯 Right now
@@ -58,14 +58,26 @@ vibe        : TODO (one honest line about how you work with people)
 
 ## 📊 GitHub Stats
 
+
+---
+
+### 2. GitHub Stats Images Fix
+Image me jo stats broken (alt text) dikh rahe hain, wo `github-readme-stats` ke server ke down hone ki wajah se hota hai (Vercel rate-limit). GitHub isko cache kar leta hai.
+
+Isko permanently fix karne ke liye hum thode zyada stable stats cards use karenge. Apne README me se **`## 📊 GitHub Stats`** wala pura section delete karo aur ye paste karo:
+
+
+ 📊 GitHub Stats
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=readytolearn-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readytolearn-hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
+<!-- Stable Stats Cards -->
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=readytolearn-hub&theme=tokyonight" alt="GitHub stats"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=readytolearn-hub&theme=tokyonight" alt="Top languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=readytolearn-hub&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.vercel.app?user=readytolearn-hub&theme=tokyonight&hide_border=true&v=1" alt="GitHub streak"/>
 
 </div>
 
