@@ -20,7 +20,7 @@
 
 ---
 
-## 👋 whoami
+## NAMASTE 🙏
 
 I'm Nirjala, a B.Tech CSE (AI/ML) student in Pune. I like the moment an ML model stops being a notebook and becomes something a real person uses. Outside code, I'm the one holding the mic: debating, anchoring events, writing stuff that isn't code.
 
