@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Nirjala;B.Tech+CSE+(AI%2FML)+%40+PCU+Pune+%7C+Batch+of+2028;I+build+ML+systems+people+can+actually+use;Debater+%7C+Anchor+%7C+Hackathon+regular" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nirjala;B.Tech+CSE+(AI%2FML)+%40+PCU+Pune+%7C+Batch+of+2028;I+build+practical+ML+systems;Debater+%7C+Anchor+%7C+Hackathon+regular" alt="Typing SVG" />
 </a>
 
 </div>
@@ -20,9 +20,9 @@
 
 ---
 
-## NAMASTE 🙏
+## About
 
-I'm Nirjala, a B.Tech CSE (AI/ML) student in Pune. I like the moment an ML model stops being a notebook and becomes something a real person uses. Outside code, I'm the one holding the mic: debating, anchoring events, writing stuff that isn't code.
+I'm Nirjala, a B.Tech CSE (AI/ML) student in Pune. I'm most interested in the point where a machine learning model moves out of a notebook and into something a real person uses. Outside of coursework I debate, anchor events, and write.
 
 ```bash
 $ cat about.txt
@@ -30,28 +30,27 @@ name        : Nirjala Sharma
 from        : Pune, India
 studying    : Pre-final year B.Tech CSE (AI/ML) @ Pimpri Chinchwad University (2028)
 likes       : ML systems, digital forensics, debate, anchoring
-vibe        : Calm under pressure. Deeply analytical, highly collaborative, relentlessly execution-focused.
+focus       : Calm under pressure; analytical, collaborative, execution-focused.
 ```
 
-## 🎯 Right now
+## Currently
 
-- 🔭 Going deeper: ML systems, MLOps, backend engineering
-- 🎤 On stage: anchoring and debate whenever there's a mic
-- 🏆 Hackathon mode: always looking for the next team
-- 📚 Reading / watching: TODO
-- 🎧 On repeat: TODO
+- Deepening my work in ML systems, MLOps, and backend engineering
+- Public speaking: debate and event anchoring
+- Hackathons: open to joining new teams
+- Looking for: SDE and research internships at product companies
 
-## 🎲 Random facts
+## Random facts
 
-- 🎓 **9.43 CGPA** through 4 semesters — including one perfect 10 SGPA semester. So "calm under pressure" isn't just a vibe.
-- 🎤 **Top 4 in an inter-college debate, 2nd in a group discussion.** Hand me a mic and a motion — I'll take it from there.
-- 🔬 **Co-presented federated learning research** at the International Master Mind Meet, PCU — bridging medical and agricultural image analysis. Yes, that's a real sentence.
-- 📱 **Built a tool that legally snoops through seized Android phones** — SNAGR: hash-verified, non-root forensic triage for on-scene officers.
-- 📞 **Teaching phones to smell scams** — VISHWAS turns call recordings into explainable LOW→CRITICAL risk reports.
-- 👩‍💼 **Recovering Head Girl** (BK Birla Centre for Education, Pune), now Placement Cell Coordinator at PCU. Old habits.
-- 🏆 **Hackathon regular:** E-Rakshak 2026 National Grand Finalist (top 31 / 458), Adobe University Hackathon R1 qualifier (top 25k / 1L+), Hacktopia Grand Finalist (top 15).
-- ☕ **TODO: your most useless skill** — *e.g. spotting any flag from a blurry pixel, one-shot parallel parking, speedrunning a Rubik's cube*
-- 🌶️ **TODO: your unpopular opinion** — *e.g. tabs > spaces, dark mode is overrated, pineapple belongs on pizza*
+- CGPA 9.43 through four semesters, including a 10 SGPA semester.
+- Top 4 finalist in an inter-college debate; 2nd place in a group discussion.
+- Co-presented research at the International Master Mind Meet, PCU, on federated learning for medical and agricultural image analysis.
+- Former Head Girl, BK Birla Centre for Education, Pune; currently Placement Cell Coordinator at PCU.
+- Hackathon finalist: E-Rakshak 2026 National Grand Finals (top 31 of 458), Hacktopia Grand Finalist (top 15), Adobe University Hackathon Round 1 qualifier (top 25,000 of 100,000+).
+- Pursuing a minor in Finance and Economics alongside AI/ML.
+- Most comfortable working in small, execution-focused teams.
+
+## Tools
 
 <div align="center">
 
@@ -59,9 +58,7 @@ vibe        : Calm under pressure. Deeply analytical, highly collaborative, rele
 
 </div>
 
-
-
- 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -75,7 +72,7 @@ vibe        : Calm under pressure. Deeply analytical, highly collaborative, rele
 
 </div>
 
-### 🐍 Snake
+### Contribution snake
 
 <div align="center">
   <picture>
@@ -85,7 +82,7 @@ vibe        : Calm under pressure. Deeply analytical, highly collaborative, rele
   </picture>
 </div>
 
-## 🤝 Say hi
+## Contact
 
 <div align="center">
 
