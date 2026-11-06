@@ -43,12 +43,15 @@ vibe        : Calm under pressure. Deeply analytical, highly collaborative, rele
 
 ## 🎲 Random facts
 
-- Top 4 finalist in an inter-college debate, 2nd in a group discussion
-- Co-presented research at the International Master Mind Meet, PCU
-- TODO: your most useless skill
-- TODO: unpopular opinion (tabs vs spaces, etc.)
-
-## 🧰 Tools I reach for
+- 🎓 **9.43 CGPA** through 4 semesters — including one perfect 10 SGPA semester. So "calm under pressure" isn't just a vibe.
+- 🎤 **Top 4 in an inter-college debate, 2nd in a group discussion.** Hand me a mic and a motion — I'll take it from there.
+- 🔬 **Co-presented federated learning research** at the International Master Mind Meet, PCU — bridging medical and agricultural image analysis. Yes, that's a real sentence.
+- 📱 **Built a tool that legally snoops through seized Android phones** — SNAGR: hash-verified, non-root forensic triage for on-scene officers.
+- 📞 **Teaching phones to smell scams** — VISHWAS turns call recordings into explainable LOW→CRITICAL risk reports.
+- 👩‍💼 **Recovering Head Girl** (BK Birla Centre for Education, Pune), now Placement Cell Coordinator at PCU. Old habits.
+- 🏆 **Hackathon regular:** E-Rakshak 2026 National Grand Finalist (top 31 / 458), Adobe University Hackathon R1 qualifier (top 25k / 1L+), Hacktopia Grand Finalist (top 15).
+- ☕ **TODO: your most useless skill** — *e.g. spotting any flag from a blurry pixel, one-shot parallel parking, speedrunning a Rubik's cube*
+- 🌶️ **TODO: your unpopular opinion** — *e.g. tabs > spaces, dark mode is overrated, pineapple belongs on pizza*
 
 <div align="center">
 
